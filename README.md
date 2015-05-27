@@ -1,0 +1,1 @@
+#photosik ... mala przegladarka zdjec
