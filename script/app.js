@@ -8,7 +8,8 @@ angular.module('photosik', ['ngAnimate'])
       {image: 'photos/img04.jpg', description: 'Image 04'},
       {image: 'photos/img05.jpg', description: 'Image 05'},
       {image: 'photos/img06.jpg', description: 'Image 06'},
-      {image: 'photos/img07.jpg', description: 'Image 07'}
+      {image: 'photos/img07.jpg', description: 'Image 07'},
+      {image: 'photos/img08.jpg', description: 'Image 08'}
     ];
 
     $scope.currentIndex = 0;
